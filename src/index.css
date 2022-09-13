@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
 MIT License
 
@@ -131,3 +132,8 @@ a {
     transform: translate(10.4rem, -6rem);
   }
 }
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> 318a812300881b81102fd522d2b1122b8973adb8
