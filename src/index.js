@@ -31,7 +31,7 @@ import {
     Route
 } from "react-router-dom";
 import { Page404 } from 'components';
-import App from 'App.jsx';
+import App from './App.jsx';
 import "./index.css";
 import "bootstrap/dist/css/bootstrap.css"
 
